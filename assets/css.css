@@ -1,0 +1,46 @@
+body{
+  background-color: wheat;
+}
+
+
+.position-fixed {
+  position: fixed;
+  border: 3px solid yellow;
+  font-size: 40px;
+}
+.top {
+  top: 1%;
+}
+.left {
+  left: 1%;
+}
+.bottom{
+  bottom: 1%;
+}
+.right{
+  right: 1%;
+}
+.container{
+ min-height:200vh;
+
+}
+.square1{
+  background-color: blue;
+  height: 200px;
+  width: 150px;
+}
+.square2{
+  background-color: green;
+  height: 500px;
+  width: 150px;
+}
+.square3{
+  background-color: grey;
+  height: 50;
+  width: 200; 
+}
+.square4{
+background-color: red;
+  height: 100px;
+  width: 150px;
+}
